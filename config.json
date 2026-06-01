@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvtringify",
+        "uuid": 27044416,
+        "checksum": "nxxnta"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
